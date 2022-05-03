@@ -1,10 +1,3 @@
-### Hi i am jonas peixoto  👋
-
-
-- 🔭 Hoje trabalho com front end
-- 🌱 Estudando react 
-- 📫 contato no email jonas.peixoto.087@gmail.com
-
 <div align="center">
   <a href="https://github.com/jonah-code
 ">
